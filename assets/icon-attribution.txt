@@ -1,0 +1,2 @@
+Microsoft Power BI, Excel Workbook and Power Query icons: microsoft/PowerBI-Icons, CC BY 4.0. https://github.com/microsoft/PowerBI-Icons
+PostgreSQL icon: devicons/devicon. https://github.com/devicons/devicon
